@@ -1,0 +1,118 @@
+html {
+	background-color: #ffffff;
+}
+body {
+	width: 750px;
+	font-size: 13px;
+	font-family: "Times New Roman";
+}
+p, ul, li, form {
+	margin: 0;
+}
+
+image {
+	height: 120px;
+	width: 104px;
+}
+
+a, .link {
+	color: #272727;
+	text-decoration: none;
+}
+a:hover {
+	background-color: #939393;
+	color: #ffffff;
+	border-radius: 15px;
+}
+
+div.time {
+	min-width: 300px;
+	display: inline-block;
+}
+ul {
+	list-style: none;
+	padding: 0;
+}
+li {
+	padding: 4px;
+	border-bottom: 1px #e5e5e5 solid;
+}
+
+#header h1 {
+	display: flex;
+	justify-content: center;
+	background-color: #571898;
+	margin: 0 10px;
+	padding: 10px;
+	color: #ffffff;
+	border-radius: 15px;
+}
+
+#rankingtable {
+	width: 100%;
+	border-radius: 10px;
+}
+
+#rankingtable tbody th {
+    background-color: #571898;
+	color: #ffffff;
+}
+table {
+	border-spacing: 0;
+	font-size: 1em;
+}
+
+#rankingtable tr {
+	height: 24px;
+	text-align: center;
+}
+
+#rankingtable tr:hover {
+	background-color: rgb(255, 72, 94);
+	color: #ffffff;
+}
+
+#rankingtable .teamName {
+	text-align: left;
+	font-weight: bold;
+	color: #272727;
+}
+
+#rankingtable td {
+	border-bottom: 1px #ffffff solid;
+}
+
+form {
+	padding: 5px 0;
+}
+
+#hidden {
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

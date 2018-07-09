@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "This extension shows standings table. Premier League and League of Spain"
+   },
+   "name": {
+      "message": "Football 24/7 standings table"
+   },
+   "shortname": {
+      "message": "Football 24/7 standings table"
+   },
+   "title": {
+      "message": "Football 24/7 standings table"
+   }
+}
